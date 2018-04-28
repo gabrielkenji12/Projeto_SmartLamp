@@ -1,11 +1,11 @@
 # Projeto_SmartLamp
 
-GABRIEL KENJI FERNANDES
-FELIPE MORAES
-LEONARDO ANDRADE DOS SANTOS
-VITOR CARLOS
+*GABRIEL KENJI FERNANDES
+*FELIPE MORAES
+*LEONARDO ANDRADE DOS SANTOS
+*VITOR CARLOS
 
-Repository Contents
+Conteúdo do Repositório
 -------------------
 
 * **/Documentation** - Documentação do projeto
