@@ -9,4 +9,4 @@ Conteúdo do Repositório
 -------------------
 
 * **/Documentation** - Documentação do projeto
-* **/Libraries/Arduino/RedBot** - SmarLamp biblioteca
+* **/Libraries/Arduino** - SmarLamp biblioteca
