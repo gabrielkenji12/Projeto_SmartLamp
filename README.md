@@ -13,6 +13,11 @@ Bibliotecas
 
 [Blynk](https://www.blynk.cc/)
 
+IDE
+-------------------
+
+O Projeto foi desenvolvido na ide [Arduino](https://www.arduino.cc/en/Main/Software)
+
 Conteúdo do Repositório
 -------------------
 
