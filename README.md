@@ -22,4 +22,4 @@ Conteúdo do Repositório
 -------------------
 
 * **/Documentation** - Documentação do projeto
-* **/Libraries/Arduino** - SmarLamp biblioteca
+* **/Project** - SmarLamp biblioteca
